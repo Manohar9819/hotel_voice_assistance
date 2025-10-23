@@ -1,28 +1,11 @@
-groq
-python-dotenv
-langchain 
-langchain-groq
-langchain_core
-langchain-community 
-# beautifulsoup4 
-requests 
-pypdf
-# openai
-langchain-chroma
-sentence-transformers
-chromadb
-faiss-cpu
-# gradio
-SpeechRecognition
-gTTS
-pydub
-PyAudio
 fastapi
 uvicorn
-fastapi
-uvicorn 
 python-multipart 
-langchain-community 
-langchain-groq 
-python-dotenv 
+langchain
+langchain-groq
+langchain-community
+pypdf 
+sentence-transformers
+faiss-cpu
+python-dotenv
 edge-tts
